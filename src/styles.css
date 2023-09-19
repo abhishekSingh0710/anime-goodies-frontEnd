@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('/src/assets/css/bundle.min.css');
+@import url('/src/assets/css/cubeportfolio.min.css');
+@import url('/src/assets/css/drift-basic.min.css');
+@import url('/src/assets/css/elements.css');
+@import url('/src/assets/css/jquery-ui.bundle.css');
+@import url('/src/assets/css/jquery.fancybox.min.css');
+@import url('/src/assets/css/LineIcons.min.css');
+@import url('/src/assets/css/mediaelementplayer.min.css');
+@import url('/src/assets/css/megamenu.css');
+@import url('/src/assets/css/owl.carousel.min.css');
+@import url('/src/assets/css/revolution-settings.min.css');
+@import url('/src/assets/css/select2.min.css');
+@import url('/src/assets/css/slick-theme.css');
+@import url('/src/assets/css/swiper.min.css');
+@import url('/src/assets/css/swiper.min.css');
+@import url('/src/assets/css/wow.css');
+@import url('/node_modules/@fortawesome/fontawesome-free/css/fontawesome.css');
+@import url('/node_modules/bootstrap/dist/css/bootstrap.min.css');
+@import url('/src/assets/css/custom/style.css');
+@import url('/src/assets/css/custom/navigation.css');
+
