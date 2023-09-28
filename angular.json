@@ -49,7 +49,29 @@
               "src/assets/css/custom/navigation.css"
             ],
             "scripts": [
-              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/js/bundle.min.js",
+              "src/assets/js/jquery.appear.js",
+              "src/assets/js/owl.carousel.min.js",
+              "src/assets/js/parallaxie.min.js",
+              "src/assets/js/jquery.cubeportfolio.min.js",
+              "src/assets/js/jquery.fancybox.min.js",
+              "src/assets/js/wow.min.js",
+              "src/assets/js/jquery-countTo.js",
+              "src/assets/js/tooltipster.min.js",
+              "src/assets/js/jquery.themepunch.revolution.min.js",
+              "src/assets/js/extensions/revolution.extension.actions.min.js",
+              "src/assets/js/extensions/revolution.extension.carousel.min.js",
+              "src/assets/js/extensions/revolution.extension.kenburn.min.js",
+              "src/assets/js/extensions/revolution.extension.layeranimation.min.js",
+              "src/assets/js/extensions/revolution.extension.migration.min.js",
+              "src/assets/js/extensions/revolution.extension.navigation.min.js",
+              "src/assets/js/extensions/revolution.extension.parallax.min.js",
+              "src/assets/js/extensions/revolution.extension.slideanims.min.js",
+              "src/assets/js/extensions/revolution.extension.video.min.js",
+              "src/assets/js/custom/functions.js",
+              "src/assets/js/custom/jquery.countdown.js",
+              "src/assets/js/custom/jquery.countdown.js"
             ]
           },
           "configurations": {
